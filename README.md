@@ -1,0 +1,2 @@
+# EEG_Data_Augmentation_with_ERD_Guided_and_Class_Discriminative_Diffusion_Model
+Motor Imagery Brain-Computer Interface (MI-BCI) systems are constrained by insufficient training samples and inter-subject variability, which limits classification accuracy and cross subject generalization capability. To address this issue, proposes an ERD-guided and class-discriminative diffusion probability model for EEG data augmentation.
